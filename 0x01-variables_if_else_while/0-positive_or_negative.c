@@ -4,6 +4,9 @@
 
 /**
  * main - Prints a random number and states whether
+*/
+
+/**
  * it is positive, negative, or zero.
  * return: Always 0.
  */
